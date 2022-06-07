@@ -1,5 +1,6 @@
 # My sample project
 
+Hello world! I'm using Git!
 
 
 ## Getting started
